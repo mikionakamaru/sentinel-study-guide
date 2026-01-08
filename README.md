@@ -19,16 +19,15 @@ Este repositório nasceu após ajudar colegas que estavam estudando Sentinel e p
 
 ---
 
-## 🗂️ Estrutura de Conteúdo
+## 🗂️ Estrutura de Conteúdo 
 
-- 🏗️ **[Fundamentos de Sentinel](./fundamentals)**
-- ☁️ **[Arquitetura e Limites Azure](./architecture)**
-- 🧠 **[MITRE ATT&CK](./mitre)**
-- 📝 **[KQL e Queries](./kql)**
-- 🚀 **[Sentinel as Code](./sentinel-as-code)**
-- ✅ **[Boas Práticas e Governança](./governance-best-practices)**
-- 🎓 **[Treinamento e Certificações](./training-certifications)**
-
+- 🏗️ **Fundamentos de Sentinel**
+- ☁️ **Arquitetura e Limites Azure**
+- 🧠 **MITRE ATT&CK**
+- 📝 **KQL e Queries**
+- 🚀 **Sentinel as Code**
+- ✅ **Boas Práticas e Governança**
+- 🎓 **Treinamento e Certificações**
 
 Cada diretório possui seu próprio `README.md` com links organizados e contexto técnico.
 
